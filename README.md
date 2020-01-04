@@ -332,6 +332,7 @@ Name | Website | Region
 [PreviousNext](/company-profiles/previousnext.md) ⚠️️ | https://www.previousnext.com.au/ |
 [Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
 [PrivacyCloud](/company-profiles/privacycloud.md) | https://www.privacycloud.com/en | Spain
+[Pronto](/company-profiles/pronto.md) | https://pronto.io/ | Utah
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
 [Quaderno](/company-profiles/quaderno.md) | https://quaderno.io/ | Europe
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
